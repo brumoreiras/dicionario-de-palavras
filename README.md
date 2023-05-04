@@ -1,7 +1,9 @@
 # Dicionário de palavras
-Este programa tem como função principal ler um arquivo de texto e colocar as palavras em ordem alfabética, criando assim um dicionario de palavras. 
+O propósito deste repositório é documentar uma atividade acadêmica específica, com o objetivo de fornecer um registro claro e organizado do processo e dos resultados alcançados.
+
 
 ## Funcionalidades do projeto
+Este programa tem como função principal ler um arquivo de texto e colocar as palavras em ordem alfabética, criando assim um dicionario de palavras. 
  - `Funcionalidade 1`: Recebe um arquivo.txt
  - `Funcionalidade 2`: Pega as palavras e insere em um vetor de forma ordenada.
  - `Funcionalidade 3`: Atraves de uma Busca Binária ele verifica se a palavra consta no dicionário caso encontre a palavra é descartada. 
